@@ -16,6 +16,7 @@ body{
 
 .navigation{
     display:flex;
+    flex:100%;
     justify-content:flex-start;
     background-color: #373738;
     display:flex;
@@ -55,6 +56,7 @@ ul{
     width: 50%;
     margin:auto;
     display:flex;
+    flex:100%;
     justify-items:flex-start;
     padding: 20px;
     justify-content: space-between;
@@ -118,6 +120,7 @@ footer{
     display:inline-block;
     padding:40px;
     display: flex;
+    flex:100%;
 
 
 }
@@ -129,6 +132,7 @@ footer ul{
     list-style-type:none;
     margin:0 auto;
     display:flex;
+    flex:100%;
     justify-content:space-between;
     font-size:20px
    
